@@ -2029,7 +2029,7 @@ export default function AveraAtlasDemo() {
               letterSpacing: '1px',
             }}
           >
-            AVERA-ATLAS
+            xOrbita
           </h1>
           <p style={{ fontSize: 12, color: '#8b949e', margin: '4px 0 0', letterSpacing: '2px' }}>
             SPACE DEBRIS DETECTION & CONJUNCTION ASSESSMENT
