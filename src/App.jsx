@@ -2079,7 +2079,7 @@ export default function AveraAtlasDemo() {
                     marginBottom: 16,
                     color: '#e6edf3',
                   }}>
-                    Analytical Planning System
+                    Analytical Planning Stack
                   </h2>
                   <p style={{ 
                     fontSize: 16, 
